@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asier Alaminos</h1>
 <h3 align="center">Soy un desarrrollador de España</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asieralaminos" alt="asieralaminos" /></a> </p>
-
-- 🌱 I’m currently learning **Kotlin, Java y C**
+- 🌱 Actualmente estoy aprendiendo **Kotlin, Java y C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
