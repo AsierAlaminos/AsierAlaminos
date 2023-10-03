@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asier Alaminos</h1>
+<h1 align="center">Hola 👋, soy Asier Alaminos</h1>
 <h3 align="center">Soy un desarrrollador de España</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Kotlin, Java y C**
