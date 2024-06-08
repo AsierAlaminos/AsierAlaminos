@@ -39,7 +39,6 @@
 ---
 
 ### [Git Manager](https://github.com/AsierAlaminos/gitManager)
-Brief description of the current project. Explain what it is about, what the goal is, and what stage it is in.
 
 <br/>
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
