@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Bienvenido+a+mi+github)](https://git.io/typing-svg)
 <h3 align="left">Soy Asier Alaminos</h3>
 
-- 🌱 I’m currently learning **C**
+- 👨‍💻 Actualmente estoy aprendiendo **C**
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
