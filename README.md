@@ -44,4 +44,9 @@
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asieralaminos&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+
+<details>
+  <summary>Github stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asieralaminos&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</details>
