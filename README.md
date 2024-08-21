@@ -41,7 +41,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=🚀+Currently+Working+On:)](https://git.io/typing-svg)
 ---
 
-### [Chess Engine](https://github.com/AsierAlaminos/ChessEngine)
+### [JsonViewer](https://github.com/AsierAlaminos/JsonViewer)
 
 <br/>
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
