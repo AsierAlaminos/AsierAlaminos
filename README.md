@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me</h3>
 
-- 🌱 Currently learning **C++**
+- 🌱 Currently learning **Go**
 - 🔭 Always looking for new challenges and interesting projects
 - 💬 Ask me about **Android, Java, Kotlin, and Python**
 - ⚡ Fun fact: I love exploring new technologies and sharing knowledge
@@ -41,7 +41,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=🚀+Currently+Working+On:)](https://git.io/typing-svg)
 ---
 
-### [JsonViewer](https://github.com/AsierAlaminos/JsonViewer)
+### [JsonViewer](https://github.com/AsierAlaminos/JsonTUI)
 
 <br/>
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
