@@ -41,7 +41,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=🚀+Currently+Working+On:)](https://git.io/typing-svg)
 ---
 
-### [JsonViewer](https://github.com/AsierAlaminos/JsonTUI)
+### [NoteShell](https://github.com/AsierAlaminos/NoteShell)
 
 <br/>
 
